@@ -1,5 +1,5 @@
 # HexCryptors
-HexCryptors is a bundle of a `Hex` Encryptor and Decryptor. What does that mean?
+HexCryptors is a bundle of a __Hex__ Encryptor and Decryptor. What does that mean?
 ## Encryption
 Encryption means to take plaintext (Normal, human readable text), and turn it into garble like this:
 ```48656c6c6f``` (This is hello)
